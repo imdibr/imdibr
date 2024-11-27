@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on projects in software development and artificial intelligence
 - 📫 Email @imadibrahim711@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 imdibr/imdibr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
